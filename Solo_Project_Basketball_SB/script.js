@@ -21,14 +21,14 @@ count_home+=3;
 home_sc.textContent=count_home;
 }
 function G_btn1 (){
-count_home+=1;
+count_guest+=1;
 guest_sc.textContent=count_home;
 }
 function G_btn2 (){
-count_home+=2;
+count_guest+=2;
 guest_sc.textContent=count_home;
 }
 function G_btn3(){
-count_home+=3;
+count_guest+=3;
 guest_sc.textContent=count_home;
 }
