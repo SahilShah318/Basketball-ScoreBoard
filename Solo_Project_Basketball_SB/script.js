@@ -22,13 +22,13 @@ home_sc.textContent=count_home;
 }
 function G_btn1 (){
 count_guest+=1;
-guest_sc.textContent=count_home;
+guest_sc.textContent=count_guest;
 }
 function G_btn2 (){
 count_guest+=2;
-guest_sc.textContent=count_home;
+guest_sc.textContent=count_guest;
 }
 function G_btn3(){
 count_guest+=3;
-guest_sc.textContent=count_home;
+guest_sc.textContent=count_guest;
 }
